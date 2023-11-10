@@ -1,3 +1,2 @@
-# References
-
-* octocat 1 😈
+octocat 1 😈
+Conflit resolved
